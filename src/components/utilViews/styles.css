@@ -1,0 +1,18 @@
+.root {
+    align-content: center;
+    position: absolute;
+    padding-left: 25%;
+    padding-top: 10%;
+}
+
+.h1 {
+    font-size: 120px;
+}
+
+.h3 {
+    font-size: 60px;
+}
+
+.button {
+    font-size: 25px;
+}

@@ -1,0 +1,21 @@
+#GD {
+    margin-top: 10%;
+    margin-left: 15%;
+    width: 80%;
+    margin-bottom: 1%;
+}
+
+
+.main {
+    background-color: linear-gradient(to right bottom, rgba(22, 1, 1, 0.7), rgba(255, 255, 255, 0.3));
+    backdrop-filter: blur(2px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
+    z-index: 3;
+}
+
+.items {
+    padding-bottom: 7%;
+    width: 80%;
+    padding-left: 15%;
+    transform: scale(1.22);
+}

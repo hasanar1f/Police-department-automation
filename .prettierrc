@@ -1,0 +1,26 @@
+{
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "useTabs": true,
+  "bracketSpacing": true,
+  "tabWidth": 3,
+  "arrowParens": "avoid",
+  "no-multiple-empty-lines": [
+    2,
+    {
+      "max": 1,
+      "maxBOF": 0
+    }
+  ],
+  "overrides": [
+    {
+      "files": "**/*.json",
+      "options": {
+        "useTabs": true,
+        "tabWidth": 1,
+        "printWidth": 120
+      }
+    }
+  ]
+}
